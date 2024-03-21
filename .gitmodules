@@ -1,0 +1,3 @@
+[submodule "husky-test"]
+	path = husky-test
+	url = https://github.com/vicenter-gitkraken/husky-test.git
