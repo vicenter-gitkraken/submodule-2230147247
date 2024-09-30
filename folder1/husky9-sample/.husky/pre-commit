@@ -1,4 +1,0 @@
-#!/usr/bin/env sh
-
-echo "hook runs, but it fails"
-exit 1
